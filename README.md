@@ -1,7 +1,7 @@
 # todolistprojectcrud-back-end
 ### ToDo List
 
-This project was created with the main objective of learning MongoDB database  and understand how the connection between back-end and front end works. Front-end was created with ReactJs.
+This project was created with the main purpose of learning MongoDB database  and understand how the connection between back-end and front end works. Front-end was created with ReactJs.
 
 For this project I followed a MongoDB tutorial shared in MongoDB page. (**see links to tutorial bellow**).
 
